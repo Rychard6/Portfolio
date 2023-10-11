@@ -56,31 +56,31 @@ export default function Corpo() {
             </div>
             <div className='pt-8 flex w-full justify-center items-center'>
                 <div className='grid grid-cols-2 md:grid-cols-3 gap-20'>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>HTML5</h1>
                         <img src="https://drive.google.com/uc?export=view&id=1ufrxOaqmwI0q4qsQ5RDT1sN_scTFO9n9" alt="Imagem 1" className='w-16 h-16 mx-auto' />
                     </div>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>CSS3</h1>
                         <img src="https://drive.google.com/uc?export=view&id=1PaqvQEC8zL9NybJh2DiYsGXGdGmHDK82" alt="Imagem 2" className='w-16 h-16 mx-auto' />
                     </div>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>JavaScript</h1>
                         <img src="https://drive.google.com/uc?export=view&id=1MMY_qxncsvoJ8XZeMB5eXijtJMTsEm97" alt="Imagem 3" className='w-16 h-16 mx-auto' />
                     </div>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>React</h1>
                         <img src="https://drive.google.com/uc?export=view&id=1owx20QJDvzjz4E7KqBjPt4tWdwZ8XZwB" alt="Imagem 4" className='w-16 h-16 mx-auto' />
                     </div>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>Redux</h1>
                         <img src="https://drive.google.com/uc?export=view&id=1glWF6BFFRrdffW5qrZaOCRaYoy6oyR6V" alt="Imagem 5" className='w-16 h-16 mx-auto' />
                     </div>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>Tailwind CSS</h1>
                         <img src="https://drive.google.com/uc?export=view&id=10_F6p67yLxTvCxknAQuTKLlKz16MLsI7" alt="Imagem 6" className='w-16 h-16 mx-auto' />
                     </div>
-                    <div className='w-28 h-28 text-center bg-gray-800 rounded-tl-2xl'>
+                    <div className='w-32 h-28 text-center bg-gray-800 rounded-tl-2xl'>
                         <h1 className='text-center font-semibold text-indigo-500'>TypeScript</h1>
                         <img src="https://drive.google.com/uc?export=view&id=1m8uxqlrXsTGe_bRQF8L2HBWWIWuvJ7Yd" alt="Imagem 7" className='w-16 h-16 mx-auto' />
                     </div>
