@@ -1,5 +1,5 @@
 import { Cursor, useTypewriter } from 'react-simple-typewriter';
-import { FaInstagram, FaWhatsapp, FaLinkedin } from "react-icons/fa6";
+import { FaInstagram, FaWhatsapp, FaLinkedin } from "react-icons/fa";
 
 export default function Corpo() {
     const [text, helper] = useTypewriter({
@@ -32,7 +32,7 @@ export default function Corpo() {
                 </div>
             </div>
             <div className='pt-12 flex justify-center'>
-                <div className='w-52 h-52 md:w-96 md:h-96 rounded-full bg-red-600'>
+                <div className='w-52 h-52 md:w-96 md:h-96 rounded-full'>
                     <img
                         src="https://drive.google.com/uc?export=view&id=12HwzSVgMBLPaG8KXcHPVb77O9YK5JWzL"
                         className="w-auto h-auto rounded-full"
