@@ -95,7 +95,7 @@ export default function Corpo() {
             </Fade>
             <Fade direction='up'>
                 <div className='pt-10 flex justify-center'>
-                    <h1 className={`text-3xl md:text-4xl font-semibold ${isDone ? 'text-gray-700' : 'dark:text-gray-200'}`}>Projetos top</h1>
+                    <h1 className={`text-3xl md:text-4xl font-semibold ${isDone ? 'text-gray-700' : 'dark:text-gray-200'}`}>Projetos</h1>
                 </div>
             </Fade>
             <Fade>
